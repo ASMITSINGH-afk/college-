@@ -1,14 +1,9 @@
-*body{
-    margin: 12px;
-    padding: 0;
-    background: aqua;
-}
+
 .toparea{
     background: #b75651;
-    padding: 10px 0;
+    padding: 10px 0px 10px 0px;
     color: #fff;
     text-align: center;
-
 }
 .logoarea{
     background-color: #f2c388;
